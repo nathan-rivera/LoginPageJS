@@ -1,1 +1,1 @@
-Simple javascript login usuing password and email logic
+Simple javascript login using password and email logic
